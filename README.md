@@ -33,7 +33,7 @@
  
   <div align="center">
   
-  ![Snake animation](https://github.com/DaniloWA/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DaniloWA/DaniloWA/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
