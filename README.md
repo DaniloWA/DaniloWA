@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/danilo-oliveira-web/"><i>Danilo Oliveira</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <i>Danilo Oliveira</i> 😃️</h1>
   <p align="center">Um amante do Desenvolvimento Web</a> ❤️‍🔥 </p>
 </div>
 
