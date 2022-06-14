@@ -2,7 +2,6 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <i>Danilo Oliveira</i> 😃️</h1>
   <p align="center">Um amante do Desenvolvimento Web</a> ❤️‍🔥 </p>
 </div>
-
 <div align="center">
   <a href="https://github.com/DaniloWA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloWA&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
@@ -39,4 +38,10 @@
  
 </div>
 
+<div>
+  <p align="center">Contagem de views</p>
+</div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DaniloWA/count.svg?"  />
+</div>
  
