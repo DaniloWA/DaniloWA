@@ -37,11 +37,4 @@
 </div>
  
 </div>
-
-<div>
-  <p align="center">Contagem de views</p>
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DaniloWA/count.svg?"  />
-</div>
  
